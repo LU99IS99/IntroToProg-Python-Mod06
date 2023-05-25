@@ -6,7 +6,7 @@
 #              Add the each dictionary "row" to a python list "table"
 # ChangeLog (Who,When,What):
 # RRoot,1.1.2030,Created started script
-# <Your Name>,<Date>,Modified code to complete assignment 06
+# JUNYANLU,5.23,Modified code to complete assignment 06
 # ---------------------------------------------------------------------------- #
 
 # Data ---------------------------------------------------------------------- #
